@@ -58,8 +58,12 @@ Material:
         m_Texture: {fileID: 8900000, guid: 18ec2d52be8f4524a97c25a2ed27838e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _myEmis:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _myTex:
-        m_Texture: {fileID: 2800000, guid: a10ea4952bbb3dd44a06a33951855558, type: 3}
+        m_Texture: {fileID: 2800000, guid: 4945f5cf83acbc04a9023dfca20a08fd, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
@@ -81,7 +85,7 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     - _myFloat: 0.5
-    - _myRange: 2.77
+    - _myRange: 2.37
     m_Colors:
     - _AmbientColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 0.091, g: 0, b: 0.68275833, a: 1}
