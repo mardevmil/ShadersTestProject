@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: VFPlasma
+  m_Shader: {fileID: 4800000, guid: 15adfc661c9d7d14fa2c2bd89a4ea2e1, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _Scale1: 1.08
+    - _Scale2: 0.8
+    - _Scale3: 1.25
+    - _Scale4: 1.25
+    - _Speed: 52
+    m_Colors:
+    - _Tint: {r: 1, g: 1, b: 1, a: 1}
